@@ -1,0 +1,191 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.a{
+    flex: 1;
+    text-align: end;
+    
+}
+.a i{ margin: 30px;}
+.b{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.b div{
+    flex: 1;
+}
+.b div a{
+    text-decoration: none;
+    margin: 10px;
+}
+.b div a:hover{color: rgb(184, 9, 38);}
+.b div h1{
+    color: crimson;
+    font-family: cursive;
+}
+.c{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.c div{
+    flex: 1;
+}
+.c div button{
+    padding: 5px;
+    background-color: skyblue;
+    margin-top: 5px;
+    border: none;
+    color: white;
+}
+.d{
+    padding: 50px;
+    margin: 50px;
+    background: #EDF2F5;
+background: -moz-linear-gradient(-45deg, #EDF2F5 0%, #FAFDFB 50%, #889097 100%);
+background: -webkit-linear-gradient(-45deg, #EDF2F5 0%, #FAFDFB 50%, #889097 100%);
+background: linear-gradient(135deg, #EDF2F5 0%, #FAFDFB 50%, #889097 100%);
+}
+.e{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    border: 1px solid black;
+    box-shadow: 10px 10px 10px 10px grey;
+    margin: 50px;
+
+}
+.e div{
+    flex: 1;
+}
+.e div p{
+    text-align:initial;
+    color: crimson;
+    font-family: cursive;
+    margin-bottom: 10px;
+}
+.e div h1{
+    margin: 20px 0px;
+    color: darkblue;
+}
+.f{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+    margin: 50px;
+}
+.f div img{
+    margin-top: 50px;
+
+}
+.f div{
+    margin: 10px;
+    flex: 1;
+    box-shadow: 10px 10px 10px 10px grey;
+}
+.f p{
+    color: crimson;
+    font-family: fantasy;
+    margin-bottom: 20px;
+}
+.h{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+
+}
+.h div{
+    flex: 1;
+}
+.h div section{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    /* margin: 50px; */
+}
+.h div section div{
+    flex: 1;
+
+}
+.h img{
+    border: 2px solid black;
+}
+.m{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   
+}
+.h span{
+    flex: 1;
+    
+}
+.n{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: darkblue;
+
+}
+.n div{
+    flex: 1;
+    margin: 50px;
+    color: white;
+}
+.n div h1,p{
+    text-align: start;
+}
+.n div button{
+    padding: 5px;
+    /* border-radius: 10px; */
+    background-color: darkblue;
+    color: white;
+    border: 1px solid white;
+
+}
+.o{
+    margin: 30px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+.o div{
+    flex: 1;
+}
+.o div p{
+    font-family: cursive;
+    color: hotpink;
+    margin-bottom: 20px;
+}
+.p{
+    margin: 30px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgrey;
+    box-shadow: 10px 20px white;
+}
+.p div{
+    flex: 1;
+}
+nav ul a{
+    text-decoration: none; 
+    margin: 20px;
+}
